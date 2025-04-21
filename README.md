@@ -8,7 +8,7 @@ This repository contains a Jupyter Notebook that performs full **data cleaning a
 
 - `sales_data.csv` - Raw sales dataset with missing values and duplicates.
 - `Data_Cleaning_Preprocessing_Sales.ipynb` - Jupyter notebook containing the complete data cleaning pipeline.
-- `data_cleaning_and_preprocessing.pdf` - A well-documented PDF summary of all the steps performed.
+- `sales_data_cleaned.csv` - Clean dataset after preprocessing of sales_data.csv.
 
 ---
 
